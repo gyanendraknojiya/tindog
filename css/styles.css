@@ -166,3 +166,8 @@ body {
     margin-top: 15px;
     margin-bottom: 15px;
 }
+
+.copy {
+    font-weight: bold;
+    padding-top: 20px;
+}
